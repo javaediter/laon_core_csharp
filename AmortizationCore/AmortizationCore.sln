@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmortizationCore", "AmortizationCore.csproj", "{644E1EDA-2230-440F-99FC-C99062BF6368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmortizationTest", "..\AmortizationTest\AmortizationTest.csproj", "{6876B94A-F715-44BC-8972-BC5C017444E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644E1EDA-2230-440F-99FC-C99062BF6368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644E1EDA-2230-440F-99FC-C99062BF6368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644E1EDA-2230-440F-99FC-C99062BF6368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644E1EDA-2230-440F-99FC-C99062BF6368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6876B94A-F715-44BC-8972-BC5C017444E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6876B94A-F715-44BC-8972-BC5C017444E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6876B94A-F715-44BC-8972-BC5C017444E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6876B94A-F715-44BC-8972-BC5C017444E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1078448C-CBA7-4DF1-98C7-D45B1D50DD2E}
+	EndGlobalSection
+EndGlobal
